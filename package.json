@@ -7,7 +7,6 @@
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
   },
-  
   "scripts": {
     "start": "react-scripts start",
     "heroku-postbuild": "react-scripts build",
@@ -15,8 +14,8 @@
     "eject": "react-scripts eject"
   },
   "engines": {
-    "npm": "8.10.0",
-    "node": "5.6.0"
+    "npm": "3.10.10",
+    "node": "6.11.0"
   },
   "eslintConfig": {
     "extends": "react-app"
